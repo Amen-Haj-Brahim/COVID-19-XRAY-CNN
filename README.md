@@ -1,6 +1,9 @@
 # COVID-19-XRAY-CNN
 
-### comparing fine tuning transfer learning, and training from scratch across CNN architectures like resnet50, mobilenet_v3 and vgg16  
+### comparing fine tuning transfer learning, and training from scratch across CNN architectures like resnet50, mobilenet_v3 and vgg16
+
+this dataset was used:
+https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
 done:
 - trying fine tuning and transfer learning on resnet50
