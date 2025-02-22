@@ -1,3 +1,5 @@
 /.venv
 /dataset
 /resnet50.pth
+/lightning_logs
+/logs/lightning_logs/version_0
